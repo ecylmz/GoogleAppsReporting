@@ -1,9 +1,9 @@
 ### GoogleAppsReporting
 
-** Kullanım :**
+** Kullanım : **
 
 data.py adlı dosyanın, `main` fonksiyonu içindeki `email`  ve `password`
-değişkenlerini kendinize göre atamak...
+değişkenlerini kendinize göre atamanız gerekmektedir...
 
 komut satırında şu komut verilir...
 
